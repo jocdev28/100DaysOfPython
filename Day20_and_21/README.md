@@ -5,3 +5,5 @@ Day 20 covers:
 
 Day 21 covers:
 1. Generating the food
+2. Getting the food to move to random positions when a collision is detected
+3. Creating a score board
